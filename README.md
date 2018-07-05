@@ -1,2 +1,2 @@
-# kafka-introduction
-Kafka Introduction course material.
+# kafka-intro
+An introduction to Kafka - Hortonworks
